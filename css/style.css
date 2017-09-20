@@ -1,0 +1,44 @@
+body{
+	background-color: #EDEEF2;
+}
+.main{
+	min-height: 800px;
+	margin-top: 60px;
+
+}
+.pad-fix{
+	padding-top: 20px;
+}
+.logo{
+	width: 150px;
+	height: 60px;
+	background-color: #FFFFFD;
+	/*text-align: center;*/
+	/*padding-top: 20px;*/
+	padding-left: 5px;
+	padding-top: 1px;
+	box-sizing: border-box;
+	border-right: 15px solid #E5BD30;
+}
+.services{
+	background-color:#E4BF32;
+	border-style: none;
+	border-radius: 0; 
+	margin-bottom: 30px;
+}
+.serviceslist{
+	list-style-type: none;
+}
+.serviceslist li{
+	padding-bottom: 10px;
+}
+.img-thumbnail{
+	margin: 0px 10px 10px 0px;
+}
+.bgfooter{
+	list-style: none;
+	margin-left: -40px;
+}
+.bgfooter li{
+	padding-bottom: 10px;
+}
